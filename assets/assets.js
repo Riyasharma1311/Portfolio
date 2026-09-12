@@ -150,7 +150,7 @@ export const infoList = [
   {
     icon: assets.edu_icon,
     iconDark: assets.edu_icon_dark,
-    title: "Soft skills",
+    title: "Frameworks & Tools",
     description: "React.js, Next.js, Angular, Express, MongoDB , OOPS, DSA, Sql, Azure, CI/CD",
   },
   {
