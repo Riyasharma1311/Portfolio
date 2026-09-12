@@ -38,9 +38,8 @@ const Header = () => {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.7 }}
       >
-        I am a fullstack developer from Delhi, India, with 2 years of
-        experience. I am currently in the pre-final year of my B.Tech in
-        Information Technology at MSIT, Delhi.
+     I’m a Full-Stack Developer from Delhi, India, with a year of experience building real-world web applications. A B.Tech IT graduate from MSIT, Delhi, I currently work as a Site Reliability Engineer at Unify Apps. I’m passionate about building reliable systems, solving complex problems, and turning ideas into products that work at scale.
+
       </motion.p>
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <motion.a

@@ -33,8 +33,8 @@ const Services = () => {
         transition={{ duration: 0.5, delay: 0.7 }}
         className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo"
       >
-        I am a MERN developer from Delhi, India with 2 years of experience
-        mainly proficient in frontend development.
+       I’m a Full-Stack Developer from Delhi, currently working as a Site Reliability Engineer at Unify Apps. I build reliable systems, solve complex engineering problems, and develop scalable web applications.
+
       </motion.p>
       <motion.div
         initial={{ opacity: 0 }}

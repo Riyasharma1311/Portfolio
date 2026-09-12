@@ -88,11 +88,11 @@ export const workData = [
     link: "https://canteeno-frontend.onrender.com/", // Replace with the actual link
   },
   {
-    title: "Summariz",
+    title: "Flood Detection System",
     description:
-      "A responsive website to simplify information by generating summaries.",
+      "A machine learning-based system that detects flood-prone areas using satellite imagery.",
     bgImage: "/Summariz.jpg",
-    link: "https://github.com/Riyasharma1311/Summariz", // Replace with the actual link
+    link: "https://github.com/Riyasharma1311/disaster_detection", // Replace with the actual link
   },
   {
     title: "PlayStream",
@@ -126,16 +126,16 @@ export const serviceData = [
   },
   {
     icon: assets.ui_icon,
-    title: "UI/UX Design",
+    title: "Customer Support",
     description:
-      "Created intuitive designs that prioritize user engagement and satisfaction using Canva/Figma. ",
+      "Resolved customer issues through troubleshooting, root-cause analysis, and cross-functional collaboration to deliver reliable solutions.",
     link: "",
   },
   {
     icon: assets.graphics_icon,
-    title: "Full-stack Development",
+    title: "Site Reliability & Operations",
     description:
-      "Delivered end-to-end solutions by combining frontend and backend expertise using MERN Stack.",
+      "Monitored and troubleshot production systems, resolved operational issues, and improved application reliability through logs, metrics, and root-cause analysis.",
     link: "",
   },
 ];
@@ -151,7 +151,7 @@ export const infoList = [
     icon: assets.edu_icon,
     iconDark: assets.edu_icon_dark,
     title: "Soft skills",
-    description: "React.js, Next.js, Express, MongoDB , OOPS, DSA",
+    description: "React.js, Next.js, Angular, Express, MongoDB , OOPS, DSA, Sql, Azure, CI/CD",
   },
   {
     icon: assets.project_icon,

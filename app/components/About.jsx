@@ -51,7 +51,8 @@ const About = ({ isDarkMode }) => {
             As a passionate and skilled full-stack developer with two years of
             professional experience, I have had the honor of collaborating with
             esteemed organizations like{" "}
-            <a href="https://www.codemarks.io/">CodeMarks</a> and
+            <a href="https://www.meetingdecisions.com/">Decisions</a>,
+            <a href="https://www.codemarks.io/"> CodeMarks</a> and
             <a href="https://www.linkedin.com/company/rym-grenergy/posts/?feedView=all">
               {" "}
               RYM Grenergy Solutions
